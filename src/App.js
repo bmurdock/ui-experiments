@@ -1,5 +1,7 @@
 import React from 'react';
 import './App.css';
+
+// Import the thing we built
 import Container from './components/Container';
 
 function App() {
